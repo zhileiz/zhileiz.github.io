@@ -3,6 +3,7 @@ module.exports = {
     title: 'TutsBlog',
     desc: "ZhileiZ's implementation of LevelUpTuts ProGatsby Series"
   },
+  pathPrefix: '/gatsbylut',
   plugins: [
     `gatsby-plugin-react-helmet`, 
     `gatsby-transformer-sharp`,
