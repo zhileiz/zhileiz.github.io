@@ -94,8 +94,8 @@ export default class Header extends Component {
               <img src={logo} atl="level-up-blog" />
             </Link>
             <nav>
-              <Link to='about'>About</Link>
-              <Link to='contact'>Contact</Link>
+              <Link to='/about'>About</Link>
+              <Link to='/contact'>Contact</Link>
             </nav>
         </HeaderContainer>
       </HeaderOverlay>
